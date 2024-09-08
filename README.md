@@ -121,3 +121,23 @@ NeuroEvolution of Augmenting Topologies (NEAT) is an algorithm used in machine l
 ## Why Python?
 
 Python was chosen for the main program due to its simplicity, readability, and extensive library support. Python’s rich ecosystem, including libraries like NumPy and TensorFlow, facilitates efficient development and integration of complex algorithms, such as NEAT. Additionally, Python’s strong community support and ease of debugging make it an ideal choice for rapid prototyping and experimentation.
+
+# Credits
+
+---
+
+- **[T Yuvasree](https://github.com/Yuvasree9)**
+- **[Kumara Swamy]()**
+- **[Saida Bhanu]()**
+- **[Mulaveesala Pranaveswar](https://github.com/Pranaveswar19)**
+
+
+This project was done under the mentorship of **T. Laxmi** who guided us throug this project giving us valuable insights and helping us overcome our problems.
+
+
+---
+
+### Author
+- **[Mulaveesala Pranaveswar](https://github.com/Pranaveswar19)**
+
+**A sincere thank you to everyone who contributed to the success of this project. Your support and insights were invaluable and are deeply appreciated.**
